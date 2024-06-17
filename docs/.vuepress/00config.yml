@@ -1,0 +1,4 @@
+module:
+  exports:
+    title: 'yml title'
+    description: 'yml description'
